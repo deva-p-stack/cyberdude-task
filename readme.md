@@ -1,5 +1,5 @@
 ## HTML & CSS Course Landing Page
-- A modern, responsive landing page for an HTML & CSS course built with pure HTML and CSS. Features a clean design, smooth animations, and mobile-first approach.
+A modern, responsive landing page for an HTML & CSS course built with pure HTML and CSS. Features a clean design, smooth animations, and mobile-first approach.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### Live link:
 
-- [View Live Project](https://deva-p-stack.github.io/cyberdude-task/index.html)
+[View Live Project](https://deva-p-stack.github.io/cyberdude-task/index.html)
 
 ---
 
@@ -55,6 +55,4 @@
 
 
 ## References
-- [W3Schools HTML & CSS Tutorials](https://www.w3schools.com)
-
----
+[W3Schools HTML & CSS Tutorials](https://www.w3schools.com)
