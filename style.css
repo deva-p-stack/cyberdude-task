@@ -70,14 +70,14 @@ align-items: center;
 .home-content p{
     text-align: center;
     font-size: 20px;
-    padding: 0 20px;
+    padding: 0 40px;
     animation: lineup 3s;
 }
 .home-content h1{
     text-align: center;
     font-size: 48px;
     animation: lineup 2s;
-    padding: 0 20px;
+    padding: 0 40px;
 }
 @keyframes lineup {
     from{
