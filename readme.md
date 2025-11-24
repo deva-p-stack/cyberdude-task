@@ -49,7 +49,7 @@ A modern, responsive landing page for an HTML & CSS course built with pure HTML 
 
 ## Acknowledgement:
 
-- Special thanks to [Anbuselvan Rocky](https://github.com/anburocky3) for his valuable mentorship.
+Special thanks to [Anbuselvan Rocky](https://github.com/anburocky3) for his valuable mentorship.
 
 ---
 
