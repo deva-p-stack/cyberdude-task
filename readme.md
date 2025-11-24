@@ -53,7 +53,8 @@
 
 ---
 
-## References:
 
+## References
+- [W3Schools HTML & CSS Tutorials](https://www.w3schools.com)
 
 ---
