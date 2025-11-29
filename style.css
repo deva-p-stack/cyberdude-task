@@ -1,0 +1,26 @@
+
+.ho:hover{
+    color: rgb(3, 4, 1) !important;
+    transition: color 0.3s ease, transform 0.3s ease !important;
+}
+
+.ho:hover svg path {
+  fill: rgb(3, 4, 1) !important;
+}
+
+.gf{
+  background: linear-gradient(to right ,#082d41 ,  #2a7299);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tc{
+  color: #07B9D5;
+}
+
+
+/* .navbar-toggler{
+  color:  #ccdae0;
+} */
+
+
+
