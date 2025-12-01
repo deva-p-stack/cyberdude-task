@@ -19,8 +19,7 @@ pre {
   word-break: break-word; 
 }
 
-
-
-
-
+.cursor-pointer {
+  cursor: pointer !important;
+}
 
