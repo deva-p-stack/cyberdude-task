@@ -4,9 +4,6 @@
     transition: color 0.3s ease, transform 0.3s ease !important;
 }
 
-.ho:hover svg path {
-  fill: rgb(3, 4, 1) !important;
-}
 
 .gf{
   background: linear-gradient(to right ,#082d41 ,  #2a7299);
@@ -17,10 +14,13 @@
   color: #07B9D5;
 }
 
+pre {
+  white-space: pre-wrap;  
+  word-break: break-word; 
+}
 
-/* .navbar-toggler{
-  color:  #ccdae0;
-} */
+
+
 
 
 
